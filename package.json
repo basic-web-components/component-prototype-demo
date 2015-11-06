@@ -1,0 +1,20 @@
+{
+  "name": "component-prototype-demo",
+  "description": "Demonstration of component-prototype use in a web page, including npm@3 dependencies",
+  "version": "0.0.0",
+  "repository": "https://github.com/basic-web-components/component-prototype-demo",
+  "authors": [
+    "Jan Miksovsky <jan@component.kitchen>",
+    "Rob Bearman <rob@component.kitchen>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "component-prototype": "basic-web-components/component-prototype#master"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
